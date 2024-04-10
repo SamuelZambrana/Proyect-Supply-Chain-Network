@@ -599,6 +599,18 @@
                   "type": 0
                 },
                 "version": "0"
+              },
+              "AnchorPeers": {
+                "mod_policy": "Admins",
+                "value": {
+                  "anchor_peers": [
+                    {
+                      "host": "peer0.org3.example.com",
+                      "port": 11051
+                    }
+                  ]
+                },
+                "version": "0"
               }
             },
             "version": "0"
@@ -673,7 +685,7 @@
             "version": "0"
           }
         },
-        "version": "0"
+        "version": "1"
       },
       "Orderer": {
         "groups": {
@@ -1007,5 +1019,5 @@
     },
     "version": "0"
   },
-  "sequence": "0"
+  "sequence": "1"
 }

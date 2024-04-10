@@ -673,7 +673,7 @@
             "version": "0"
           }
         },
-        "version": "0"
+        "version": "1"
       },
       "Orderer": {
         "groups": {
@@ -1007,5 +1007,5 @@
     },
     "version": "0"
   },
-  "sequence": "0"
+  "sequence": "1"
 }
